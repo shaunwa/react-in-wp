@@ -11,3 +11,49 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.question-box {
+  background-color: #333;
+  color: #fff;
+  padding: 16px;
+  text-align: center;
+}
+
+.question-heading {
+  font-weight: bold;
+}
+
+.question-text {
+
+}
+
+.question-thanks-message {
+
+}
+
+.answers-container {
+  max-width: 400px;
+  margin: auto;
+}
+
+.answer-button {
+  background: transparent;
+  border: 2px solid #fff;
+  border-radius: 8px;
+  color: #fff;
+  cursor: pointer;
+  display: block;
+  font-size: 16px;
+  padding: 12px;
+  width: 100%;
+}
+
+.answer-button:hover {
+  background: #fff;
+  color: #333;
+  font-weight: bold;
+}
+
+.space-after {
+  margin-bottom: 8px;
+}
